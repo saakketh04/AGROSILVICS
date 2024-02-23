@@ -1,0 +1,16 @@
+Soil identification and classification is one of the challenging tasks in the agriculture area of
+every country in the World. To fulfil the requirement of food, this is necessary to identify the
+accurate soil according to the crop. Nature and type of the soil is identified either manually or
+government soil laboratories established in District headquarters. The process adopted is both
+labour- and time-intensive. Computer-based soil categorization methods are necessary since
+they reduce the time and consumption of resources that aids farmer in the process of farming.
+In two streams, this project discusses various computer-based methods for classifying soil.
+First are based on advance techniques using image processing and computer vision that
+identify soil using various characteristics such as texture, color, and particle size. These
+approaches use standard image processing algorithms and techniques. The second is soil
+categorization methods based on machine & deep learning, such as CNN, which produces
+cutting-edge findings. By streamlining the entire process, deep learning processes primarily
+reduce the reliance on spatial designs and pre-processing methods. There is another module
+of the project involved which helps in the selection of accurate tree-crop pairings as it is very
+important for agricultural planning. This is done by extracting the output from the trained
+model and verifying the type of soil with the data available and recommends the optimal tree crop pairings according to the provided csv data.
